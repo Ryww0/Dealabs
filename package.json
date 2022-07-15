@@ -1,0 +1,25 @@
+{
+  "name": "dealabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "sass --watch --load-path=node_modules --style=compressed scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryww0/Dealabs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryww0/Dealabs/issues"
+  },
+  "homepage": "https://github.com/Ryww0/Dealabs#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.53.0"
+  }
+}
